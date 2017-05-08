@@ -1,1 +1,2 @@
-SSD1206_demo/* linguist-vendored
+* linguist-vendored
+*.cpp linguist-vendored=false
